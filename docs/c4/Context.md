@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Nivel 1: Contexto"
+sidebar_label: "Level 1: Context"
 sidebar_position: 1
 ---
 

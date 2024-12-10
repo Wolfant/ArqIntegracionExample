@@ -78,7 +78,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Arquitectura',
+          label: 'Architecture',
         },
         {
           href: 'https://github.com/Wolfant/ArqIntegracionExample',
@@ -94,7 +94,7 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Arquitectura',
+              label: 'Architecture',
               to: 'ArqIntegracionExample/docs/intro',
             },
           ],
